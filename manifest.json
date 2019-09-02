@@ -2,7 +2,7 @@
   "name": "redditblock",
   "version": "1.0",
   "description": "to stop wasting time on Reddit",
-  "manifest_version": 1,
+  "manifest_version": 2,
   "content_scripts": [
     {
       "matches": ["https://www.reddit.com/*"],
